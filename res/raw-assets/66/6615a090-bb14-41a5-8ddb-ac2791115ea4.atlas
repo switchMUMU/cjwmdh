@@ -1,0 +1,20 @@
+
+mianguanzhaopai_03.png
+size: 207,91
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diaosheng
+  rotate: true
+  xy: 2, 2
+  size: 8, 50
+  orig: 8, 50
+  offset: 0, 0
+  index: -1
+diban
+  rotate: false
+  xy: 2, 12
+  size: 203, 77
+  orig: 203, 77
+  offset: 0, 0
+  index: -1

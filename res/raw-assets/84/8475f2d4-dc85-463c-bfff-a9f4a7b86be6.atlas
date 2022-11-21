@@ -1,0 +1,76 @@
+
+chushi_06.png
+size: 249,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiban
+  rotate: false
+  xy: 90, 53
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 2, 4
+  size: 9, 56
+  orig: 9, 56
+  offset: 0, 0
+  index: -1
+rou
+  rotate: false
+  xy: 168, 68
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 90, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 15
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 168, 36
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 137, 16
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: false
+  xy: 229, 8
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 162, 12
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: true
+  xy: 199, 14
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

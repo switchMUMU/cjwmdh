@@ -1,0 +1,13 @@
+
+qian.png
+size: 67,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_money
+  rotate: false
+  xy: 2, 2
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+chushi_02luzi.png
+size: 351,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chaofan
+  rotate: false
+  xy: 2, 43
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+tieban
+  rotate: false
+  xy: 42, 22
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+tiebanhong
+  rotate: false
+  xy: 165, 22
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+yan
+  rotate: true
+  xy: 288, 2
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1

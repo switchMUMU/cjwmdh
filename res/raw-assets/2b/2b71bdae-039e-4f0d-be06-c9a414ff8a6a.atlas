@@ -1,0 +1,13 @@
+
+shoudonghua.png
+size: 169,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_finger
+  rotate: false
+  xy: 2, 2
+  size: 165, 101
+  orig: 165, 101
+  offset: 0, 0
+  index: -1

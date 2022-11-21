@@ -1,0 +1,118 @@
+
+chushi_08.png
+size: 252,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guoer
+  rotate: true
+  xy: 2, 36
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+guoeryingzi
+  rotate: true
+  xy: 142, 64
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+heidou
+  rotate: false
+  xy: 104, 48
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+miantiao
+  rotate: false
+  xy: 2, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 198, 89
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 142, 41
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 69, 57
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+wandou
+  rotate: false
+  xy: 113, 48
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: false
+  xy: 172, 6
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 96, 4
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: true
+  xy: 53, 6
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 53, 6
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 69, 40
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: false
+  xy: 69, 40
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 198, 56
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 198, 56
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+qianjin.png
+size: 585,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: false
+  xy: 499, 25
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+paoche_cheshen
+  rotate: false
+  xy: 2, 6
+  size: 297, 111
+  orig: 297, 111
+  offset: 0, 0
+  index: -1
+paoche_lunzi
+  rotate: false
+  xy: 450, 53
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 450, 22
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+qunzihou
+  rotate: true
+  xy: 516, 54
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 532, 26
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 301, 7
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 381, 32
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 516, 87
+  size: 67, 30
+  orig: 67, 30
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 532, 5
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 429, 2
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 477, 2
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 381, 10
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1

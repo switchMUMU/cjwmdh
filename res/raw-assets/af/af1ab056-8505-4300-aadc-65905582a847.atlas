@@ -1,0 +1,34 @@
+
+dingdan.png
+size: 143,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banzi
+  rotate: true
+  xy: 2, 3
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+jiazi
+  rotate: false
+  xy: 120, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+zhi
+  rotate: false
+  xy: 68, 9
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 120, 24
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1

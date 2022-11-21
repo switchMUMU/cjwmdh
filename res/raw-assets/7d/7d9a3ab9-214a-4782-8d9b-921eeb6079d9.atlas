@@ -1,0 +1,97 @@
+
+chushi_05.png
+size: 334,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanzi
+  rotate: true
+  xy: 207, 6
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+niupai
+  rotate: false
+  xy: 2, 2
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+np_img_zaotai
+  rotate: false
+  xy: 2, 38
+  size: 121, 44
+  orig: 121, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 207, 36
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 125, 2
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+weiqun
+  rotate: false
+  xy: 256, 60
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 57, 6
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 306, 64
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 256, 35
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 283, 5
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 306, 44
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: true
+  xy: 246, 11
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 305, 14
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

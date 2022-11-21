@@ -1,0 +1,41 @@
+
+shijian.png
+size: 220,97
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yueliang
+  rotate: true
+  xy: 94, 31
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+yun0
+  rotate: true
+  xy: 168, 30
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 147, 8
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 94, 2
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+zhongwu
+  rotate: false
+  xy: 2, 5
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1

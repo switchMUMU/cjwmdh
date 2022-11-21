@@ -1,0 +1,20 @@
+
+gantanhao.png
+size: 70,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 2
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+tanhao
+  rotate: false
+  xy: 49, 12
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1

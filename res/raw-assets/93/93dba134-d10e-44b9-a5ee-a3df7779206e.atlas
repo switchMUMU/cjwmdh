@@ -1,0 +1,83 @@
+
+chushi_02.png
+size: 158,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cf_img_chanzi
+  rotate: false
+  xy: 76, 27
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 84, 69
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 66
+  size: 80, 81
+  orig: 80, 81
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 2, 3
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 84, 117
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: false
+  xy: 133, 53
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 133, 80
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 76, 5
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 131, 33
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 106, 32
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 106, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+jiedananniu.png
+size: 213,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 50
+  size: 142, 134
+  orig: 142, 134
+  offset: 0, 0
+  index: -1
+dianhua
+  rotate: true
+  xy: 146, 2
+  size: 182, 65
+  orig: 182, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+huodexindianpu.png
+size: 1229,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 32
+  size: 750, 296
+  orig: 750, 296
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: true
+  xy: 1083, 9
+  size: 319, 78
+  orig: 319, 78
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1163, 44
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+zhuanguang
+  rotate: true
+  xy: 754, 2
+  size: 326, 327
+  orig: 326, 327
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 1163, 81
+  size: 247, 64
+  orig: 247, 64
+  offset: 0, 0
+  index: -1

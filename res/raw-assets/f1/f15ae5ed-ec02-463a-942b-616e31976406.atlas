@@ -1,0 +1,118 @@
+
+hanbaozhaopai.png
+size: 872,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 564, 22
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 820, 106
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 820, 57
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 820, 8
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+diaosheng
+  rotate: true
+  xy: 44, 10
+  size: 8, 50
+  orig: 8, 50
+  offset: 0, 0
+  index: -1
+diban_01
+  rotate: false
+  xy: 368, 4
+  size: 194, 66
+  orig: 194, 66
+  offset: 0, 0
+  index: -1
+diban_02
+  rotate: false
+  xy: 172, 2
+  size: 194, 68
+  orig: 194, 68
+  offset: 0, 0
+  index: -1
+diban_03
+  rotate: false
+  xy: 592, 80
+  size: 199, 73
+  orig: 199, 73
+  offset: 0, 0
+  index: -1
+diban_04
+  rotate: false
+  xy: 613, 7
+  size: 205, 71
+  orig: 205, 71
+  offset: 0, 0
+  index: -1
+diban_05
+  rotate: false
+  xy: 172, 72
+  size: 209, 81
+  orig: 209, 81
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 383, 74
+  size: 207, 79
+  orig: 207, 79
+  offset: 0, 0
+  index: -1
+zi_01
+  rotate: true
+  xy: 44, 20
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+zi_02
+  rotate: true
+  xy: 76, 20
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+zi_03
+  rotate: true
+  xy: 108, 20
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+zi_04
+  rotate: true
+  xy: 140, 20
+  size: 133, 30
+  orig: 133, 30
+  offset: 0, 0
+  index: -1
+zi_05
+  rotate: true
+  xy: 2, 10
+  size: 143, 40
+  orig: 143, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+chushi_09.png
+size: 271,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 89, 42
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+shaozi
+  rotate: true
+  xy: 158, 63
+  size: 22, 86
+  orig: 22, 86
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 158, 26
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 15
+  size: 70, 85
+  orig: 70, 85
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 89, 10
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 244, 30
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 157, 2
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 200, 33
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+zuoshangbi
+  rotate: true
+  xy: 200, 13
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 246, 50
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 222, 33
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

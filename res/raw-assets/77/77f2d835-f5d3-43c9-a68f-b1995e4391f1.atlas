@@ -1,0 +1,27 @@
+
+wenhao.png
+size: 145,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dizuo
+  rotate: false
+  xy: 2, 2
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+wenhao
+  rotate: true
+  xy: 87, 21
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 87, 7
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1

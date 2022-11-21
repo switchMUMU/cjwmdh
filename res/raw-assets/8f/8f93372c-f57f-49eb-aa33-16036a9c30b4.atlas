@@ -1,0 +1,69 @@
+
+dianzhang_01.png
+size: 214,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 92, 5
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 92, 58
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 198, 41
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 146, 12
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: false
+  xy: 172, 35
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 198, 15
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 168, 67
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 172, 3
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

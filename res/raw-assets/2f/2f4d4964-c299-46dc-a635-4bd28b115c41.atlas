@@ -1,0 +1,76 @@
+
+huodeshouyi.png
+size: 980,399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 331, 137
+  size: 548, 260
+  orig: 548, 260
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 281, 11
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hengfu
+  rotate: false
+  xy: 331, 57
+  size: 319, 78
+  orig: 319, 78
+  offset: 0, 0
+  index: -1
+qian
+  rotate: true
+  xy: 881, 222
+  size: 175, 97
+  orig: 175, 97
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 281, 34
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+zhuanguang
+  rotate: true
+  xy: 2, 71
+  size: 326, 327
+  orig: 326, 327
+  offset: 0, 0
+  index: -1
+zi1
+  rotate: false
+  xy: 652, 22
+  size: 266, 53
+  orig: 266, 53
+  offset: 0, 0
+  index: -1
+zi2
+  rotate: false
+  xy: 316, 2
+  size: 266, 53
+  orig: 266, 53
+  offset: 0, 0
+  index: -1
+zi3
+  rotate: false
+  xy: 652, 77
+  size: 266, 58
+  orig: 266, 58
+  offset: 0, 0
+  index: -1
+zi4
+  rotate: false
+  xy: 2, 11
+  size: 277, 58
+  orig: 277, 58
+  offset: 0, 0
+  index: -1
